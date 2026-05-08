@@ -1,3 +1,3 @@
-# M5Stack Hats
+# M5Stack StickC Hats
 
-Some samples, driver wrappers and custom blocks but Stick's hats that arenot supported in [UIFlow2 IDE](https://uiflow2.m5stack.com/).
+Samples, driver wrappers and custom blocks for M5 StickC's Hats that aren't supported in [UIFlow2 IDE](https://uiflow2.m5stack.com/).
