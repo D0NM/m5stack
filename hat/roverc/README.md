@@ -1,4 +1,4 @@
-# RoverC-Pro [Docs](https://docs.m5stack.com/en/hat/hat_roverc_pro)
+# RoverC-Pro [Docs](https://docs.m5stack.com/en/hat/hat_roverc_pro) | [C++ Driver & Samples](https://github.com/m5stack/M5-RoverC)
 This Hat isn't supported in [UIFlow2 IDE](https://uiflow2.m5stack.com/) so, I added a driver wrapper and a custom block for UIFlow2
 
 ### HOW TO USE
