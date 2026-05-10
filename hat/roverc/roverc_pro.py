@@ -47,7 +47,7 @@ class RoverC_Pro:
     # ====================== Servo Control ======================
     def set_servo_angle(self, servo1: int = 90, servo2: int = 90):
         """
-        Set servo angles (0~180�)
+        Set servo angles (0~180)
         servo1 and servo2 are the two expansion servos on RoverC-Pro
         """
         self._buf[0] = self._clamp(servo1, 0, 180)
